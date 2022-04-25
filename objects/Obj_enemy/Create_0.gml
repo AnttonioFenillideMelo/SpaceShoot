@@ -1,3 +1,3 @@
-vspeed = 3;
+vspeed = 2;
 
-alarm[0] = room_speed * random_range(1, 3);
+alarm[0] = random_range(1, 2) * room_speed;
